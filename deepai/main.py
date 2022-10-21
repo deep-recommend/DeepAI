@@ -1,11 +1,19 @@
-class QAOA:
+class DeepFake:
     def __init__():
         pass
 
-class QML:
+class DeepDiffusion:
     def __init__():
         pass
 
-class QNN:
+class DeepIllusion:
+    def __init__():
+        pass
+
+class DeepMusic:
+    def __init__():
+        pass
+
+class DeepVideo:
     def __init__():
         pass
